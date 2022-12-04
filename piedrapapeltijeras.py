@@ -1,3 +1,5 @@
+import random 
+
 victorias_usuario = 0
 victorias_computadora = 0
 empates = 0
